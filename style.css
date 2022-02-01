@@ -11,7 +11,7 @@ img{
 h1{
     font-size: 50px
 }
-section{
+.vvv{
     display:flex
 }
 .red{
@@ -37,6 +37,7 @@ h3{
 }
 .mmm{
     width: 50%;
+    padding-left: 100px;
 }
 h2{
     color: brown;
@@ -45,4 +46,20 @@ h2{
     background-image: url(images/dream-bg.png);
     background-repeat:no-repeat ;
     background-position: right;
+}
+.nnn{
+    display: flex;
+}
+.abc{
+    display: flex;
+}
+.bd{
+    width: 50%;
+    padding-left: 100px;
+}
+.cd{
+    background-image: url(images/exp-bg.png);
+    background-repeat:no-repeat ;
+    background-position: left;   
+    margin-bottom: 100px; 
 }
