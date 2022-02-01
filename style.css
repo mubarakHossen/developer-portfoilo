@@ -1,0 +1,37 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.blue{
+    color: blue;
+}
+img{
+    width: 450px;
+    border-radius: 300px;
+}
+h1{
+    font-size: 50px
+}
+section{
+    display:flex
+}
+.red{
+    width: 50%;
+    padding-left: 100px;
+}
+h3{
+    color: brown;
+}
+.aaa{
+    text-decoration: none;
+    background-image: linear-gradient(red,blue);
+    padding: 10px 40px;
+    color: white;
+   border-radius: 5px;
+}
+.bbb{
+    padding-left: 100px;
+}
+section{
+    background-image: url(images/top-banner.png);
+    background-repeat:no-repeat ;
+}
