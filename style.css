@@ -31,7 +31,18 @@ h3{
 .bbb{
     padding-left: 100px;
 }
-section{
+.vvv{
     background-image: url(images/top-banner.png);
     background-repeat:no-repeat ;
+}
+.mmm{
+    width: 50%;
+}
+h2{
+    color: brown;
+}
+.nnn{
+    background-image: url(images/dream-bg.png);
+    background-repeat:no-repeat ;
+    background-position: right;
 }
