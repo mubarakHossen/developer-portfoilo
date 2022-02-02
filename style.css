@@ -34,7 +34,7 @@ h3{
 .vvv{
     background-image: url(images/top-banner.png);
     background-repeat:no-repeat ;
-}
+  }
 .mmm{
     width: 50%;
     padding-left: 100px;
@@ -52,14 +52,38 @@ h2{
 }
 .abc{
     display: flex;
+
 }
 .bd{
-    width: 50%;
+    /* width: 50%; */
     padding-left: 100px;
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 30px black;
+    border-left: 8px solid;
+    border-image: linear-gradient(red,blue) ;
+    border-image-slice: 1;
+    border-radius: 10px;
 }
 .cd{
     background-image: url(images/exp-bg.png);
     background-repeat:no-repeat ;
     background-position: left;   
     margin-bottom: 100px; 
+}
+h4{
+    font-size: 40px;
+}
+.dd{
+    /* width: 50%; */
+    padding-left: 100px;
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 30px black;
+    border-left: 8px solid;
+    border-image: linear-gradient(blue,red) ;
+    border-image-slice: 1;
+    border-radius: 10px;
 }
